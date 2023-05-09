@@ -23,10 +23,11 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/omar-ashraf-abd-el-mongy-463488266" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Mongy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-<a href= "engomarmongy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Mongy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"∠></a>
-
+<p align="center">
+    <a href= "https://www.linkedin.com/in/omar-ashraf-abd-el-mongy-463488266/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"∠></a>
+    <a href= "engomarmongy@gmail.com"><img src="https://img.shields.io/badge/gmail-%231FA1F1?style=flat&logo=gmail&logoColor=white"∠></a>
+ </p>
+ 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
