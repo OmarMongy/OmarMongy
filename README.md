@@ -12,6 +12,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=FPGA/ASIC%20Design%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+*I am an extremely motivated Physical Design Engineer with interests in the field of Digital IC Design and Computer Architecture. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
+
+*Besides the cutting-edge technology and tools I work with every day, I believe the best thing is the people! I enjoy learning from experienced Engineers. My objective is simple, work with my team to deliver continued success, and to keep learning Physical Design!*
+
 - 🏢 I am student at Zagzig University studying Communication and Electronics Engineering.
 - 🔭 As a EC student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with **FPGA/ASIC Design "Verilog, VHDL, STA, PnR"***.
@@ -21,7 +25,7 @@
 
 <a href="https://linkedin.com/in/omar-ashraf-abd-el-mongy-463488266" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Mongy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href= "mailto:engomarmongy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Mongy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"∠></a>
+<a href= "engomarmongy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Mongy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"∠></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
