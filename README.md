@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://thumbs.gfycat.com/DecimalAggressiveGavial-mobile.mp4">
 
 <h3 align="center">
   Welcome to Omar Mongy's profile!
