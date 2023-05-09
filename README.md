@@ -14,7 +14,7 @@
 
 *I am an extremely motivated FPGA/ASIC Design Engineer with interests in the field of Digital IC Design and Computer Architecture. I am regularly trusted to deliver on the toughest designs because I enjoy finding new approaches and I do not give up!*
 
-*Besides the cutting-edge technology and tools I work with every day, I believe the best thing is the people! I enjoy learning from experienced Engineers. My objective is simple, work with my team to deliver continued success, and to keep learning Physical Design!*
+*Besides the cutting-edge technology and tools I work with every day, I believe the best thing is the people! I enjoy learning from experienced Engineers. My objective is simple, work with my team to deliver continued success, and to keep learning Digital Design!*
 
 - 🏢 I am student at Zagzig University studying Communication and Electronics Engineering.
 - 🔭 As a EC student, I'm constantly learning and exploring new technologies to improve my skills.
