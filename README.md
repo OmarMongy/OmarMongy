@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="250" align="right" src="https://i.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.webp">
+<img width="250" img heigh= "400" align="right" src="https://i.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.webp">
 
 <h3 align="center">
   Welcome to Omar Mongy's profile!
