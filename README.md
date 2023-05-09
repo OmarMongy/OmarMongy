@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="250" align="right" src="https://thumbs.gfycat.com/DecimalAggressiveGavial-gif">
+<img width="250" align="right" src="https://i.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.webp">
 
 <h3 align="center">
   Welcome to Omar Mongy's profile!
