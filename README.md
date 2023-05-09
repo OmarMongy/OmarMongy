@@ -12,16 +12,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=FPGA/ASIC%20Design%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
+
 *I am student at Zagzig University studying Communication and Electronics Engineering, my passion lies in the field of Digital IC Design
 .
-
 With a strong foundation in the fundamentals of communication and electronics engineering, I am eager to apply my knowledge and skills to the development of digital circuits and systems.
-
 
 As a dedicated and hardworking individual, I am always seeking to learn and grow both personally and professionally.
 I am excited to connect with like-minded individuals in the field and explore opportunities to contribute to the industry's growth and development.*
-
-*Besides the cutting-edge technology and tools I work with every day, I believe the best thing is the people! I enjoy learning from experienced Engineers. My objective is simple, work with my team to deliver continued success, and to keep learning Digital Design!*
 
 - 🏢 I am student at Zagzig University studying Communication and Electronics Engineering.
 - 🔭 As a EC student, I'm constantly learning and exploring new technologies to improve my skills.
