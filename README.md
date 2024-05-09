@@ -23,7 +23,7 @@ I am excited to connect with like-minded individuals in the field and explore op
 
 - 🏢 I am student at Zagzig University studying Communication and Electronics Engineering.
 - 🔭 As a EC student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with **FPGA/ASIC Design "Verilog, VHDL, STA, PnR"***.
+- 💬 Ask me about my experience with **FPGA/ASIC Design "Verilog, VHDL, FPGA, STA, PnR"***.
 
 
 ### Connect with Me :
